@@ -23,8 +23,5 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
-.gitignore
-.idea/
-pom.xml
-src/
-webapp.iml
+
+
